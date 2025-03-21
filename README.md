@@ -16,8 +16,3 @@ A modern habit tracking application built with React, TypeScript, and Firebase. 
 - Firebase (Authentication, Firestore)
 - Tailwind CSS
 
-## Demo
-[View Live Demo](https://yourdeployedlink.com)
-
-## Screenshots
-![Dashboard](screenshot-link.png)
